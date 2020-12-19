@@ -1,0 +1,13 @@
+#img_div{
+    float: left;
+    margin-left: 70px;
+    width: 150px;
+    height: 150px;
+}
+
+#img_post{
+    float: left;
+    margin-left: 70px;
+    width: 550px;
+    height: 350px;
+}
